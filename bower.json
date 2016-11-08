@@ -1,0 +1,21 @@
+{
+  "name": "Training",
+  "authors": [
+    "ssasujit <ssasujit@manaosoftware.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "jquery.cookie": "jquery-cookie#^1.4.1"
+  }
+}
